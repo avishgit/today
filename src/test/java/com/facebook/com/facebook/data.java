@@ -4,4 +4,4 @@ public class data {
 	
 	//my profile data 
 
-}
+     }
